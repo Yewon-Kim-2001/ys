@@ -1,0 +1,24 @@
+/*****************tag selector*****************/
+
+body {
+  background-color: #ffecda;
+}
+h1 {
+  color: #f57170;
+}
+hr {
+  width: 10%;
+  border-style: dashed none none none;
+  border-color: #f57170;
+  border-width: 7px;
+}
+
+/*****************class selector*****************/
+
+.fit-picture {
+  width: 200px;
+}
+
+.mask {
+  width: 200px;
+}
